@@ -2,7 +2,50 @@
   <img src="https://i.imgur.com/96lserc.png" alt="Staking Di Kamino" width="200"/>
 </p>
 
-Dibuat : Agus Nurhadi - Agustus 2025
+# 📘 Panduan Staking Solana di Kamino
+
+
+*Disusun oleh:* Agus Nurhadi  
+*Bulan:* Agustus 2025  
+*Lokasi:* Indonesia  
+
+---
+
+## 📌 Daftar Isi
+
+- [📖 Panduan Staking](staking-solana.md)
+- [🎁 Info Airdrop](airdrop-info.md)
+- [⚙ Panduan Kamino Finance](kamino-guide.md)
+- [💡 Strategi Staking](strategi.md)
+- [🔗 Referensi & Resources](resources.md)
+
+---
+
+## 🚀 Deskripsi
+
+Dokumentasi ini berisi panduan lengkap untuk staking Solana (SOL) di platform *Kamino Finance*.  
+Tujuannya adalah membantu pengguna awam sekalipun memahami langkah-langkah staking, airdrop, dan strategi optimal untuk hasil maksimal.
+
+---
+
+## 🧩 Teknologi yang Digunakan
+
+- Solana Blockchain
+- Kamino Finance Vault
+- Wallet: Phantom / Solflare
+- GitHub untuk dokumentasi
+
+---
+
+## 🧠 Tujuan Proyek
+
+- Memberikan edukasi staking Solana
+- Menjadi dokumentasi publik berbasis pengalaman nyata
+- Menjadi bagian portofolio Web3 Indonesia
+
+---
+
+
 
 # 📦 Staking Solana di Kamino
 
