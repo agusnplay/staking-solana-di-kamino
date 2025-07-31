@@ -57,4 +57,3 @@ Temui Saya di Media Sosial
 ---
 
 © 2025 Agus Nurhadi. Semua hak cipta dilindungi.
-
