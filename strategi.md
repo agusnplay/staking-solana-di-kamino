@@ -3,7 +3,7 @@
 </p>
 <center>Staking Solana</center>
 
-Dibuat Bulan Agustus 2025 oleh Agus Nurhadi, Indonesia
+<p>Dibuat Bulan Agustus 2025 </p> <p> oleh Agus Nurhadi, Indonesia </p>
 # Strategi Maksimalisasi Staking di Kamino
 
 Berikut beberapa strategi agar hasil staking di Kamino lebih optimal:
