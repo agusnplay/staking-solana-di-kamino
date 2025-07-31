@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://ik.imagekit.io/izrespquy/kkk.png" alt="Staking Di Kamino" width="200"/>
 </p>
-Dibuat Bulan Agustus 2025 Oleh Agus Nurhadi, Indonesia
+<p>Dibuat Bulan Agustus 2025 </p> <p> Oleh Agus Nurhadi, Indonesia </p>
 
 # Panduan Kamino Finance
 
