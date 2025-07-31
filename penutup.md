@@ -25,7 +25,7 @@ Dokumentasi ini disusun sebagai panduan staking Solana di Kamino Finance, khusus
 
 ---
 
-<p>Bulan Agustus 2025</p>
+<p><center>Bulan Agustus 2025</center></p>
 
 <p align="center">
   <img src="https://ik.imagekit.io/izrespquy/an.jpg" alt="Agus Nurhadi" width="200"/>
