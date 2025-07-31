@@ -3,7 +3,7 @@
   <img src="https://ik.imagekit.io/izrespquy/grafik.jpg" alt="Grafik Solana" width="200"/>
 </p>
 <center>ilustrasi grafik harga SOL</center>
-Dibuat Bulan Agustus 2025 Oleh Agus Nurhadi, Indonesia
+<p>Dibuat Bulan Agustus 2025</p> <p>Oleh Agus Nurhadi, Indonesia </p>
 
 # 🪙 Panduan Staking SOL di Kamino
 
