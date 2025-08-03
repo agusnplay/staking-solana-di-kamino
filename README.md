@@ -73,7 +73,7 @@ Tujuannya membantu pengguna sebagai referensi dan edukasi berinvestasi.
    <a href="https://phantom.app" target="_blank">Phantom</a> 
 
 2. Buka Kamino Finance: pencet --->
-   <a href="https://app.kamino.finance" target="_blank">Kamino</a>
+   <a href="https://swap.kamino.finance/?ref=staking-solana-di-kamino" target="_blank">Kamino</a>
 
 3. Hubungkan wallet Solflare/Phantom dengan Kamino    Finance
 
