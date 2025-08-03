@@ -13,7 +13,7 @@ Kamino Finance adalah platform DeFi di jaringan Solana yang menyediakan berbagai
   <img src="https://ik.imagekit.io/izrespquy/kamino.jpg" alt="Staking Di Kamino" width="200"/>
 </p>
 
-1. Buka ---> [kamino](https://app.kamino.finance)
+1. Buka ---> [kamino](https://swap.kamino.finance/?ref=staking-solana-di-kamino)
    
 2. Hubungkan wallet Solana ---> <a href="https://solflare.com" target="_blank">Solflare</a> atau ---> <a href="https://phantom.app" target="_blank">Phantom</a> 
 
