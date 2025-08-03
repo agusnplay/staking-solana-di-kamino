@@ -6,7 +6,7 @@
 <p>Dibuat Bulan Agustus 2025 </p> <p> oleh Agus Nurhadi, Indonesia </p>
 # Strategi Maksimalisasi Staking di Kamino
 
-Berikut beberapa strategi agar hasil staking di Kamino lebih optimal:
+Berikut beberapa strategi agar hasil staking di [Kamino](https://swap.kamino.finance/?ref=staking-solana-di-kamino) lebih optimal:
 
 - Pilih vault dengan APY tinggi namun tetap stabil.
   Vault konservatif : SOL, USDC.
