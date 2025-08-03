@@ -16,7 +16,7 @@ Staking Solana (SOL) di Kamino Finance memungkinkan anda untuk mendapatkan yield
 
 ## Langkah-langkah:
 
-1. Buka situs ---> [Kamino Finance](https://www.kamino.finance)
+1. Buka situs ---> [Kamino Finance](https://swap.kamino.finance/?ref=staking-solana-di-kamino)
    
 2. Hubungkan wallet Solana anda menggunakan wallet Phantom atau wallet Solflare
    
