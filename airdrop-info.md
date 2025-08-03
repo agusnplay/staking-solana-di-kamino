@@ -15,8 +15,8 @@ Panduan lengkap untuk mengikuti berbagai airdrop di jaringan Solana. Airdrop ada
 
 - Gunakan wallet kompatibel: *Solflare, **Phantom, atau **Backpack*
 - Lakukan interaksi nyata seperti:
-  - Staking
-  - Swap token
+  - [Staking](https://app.kamino.finance/earn/lend)
+  - [Swap token](https://swap.kamino.finance/?ref=staking-solana-di-kamino)
   - Gunakan DApps (misalnya Kamino, Jupiter, Jito)
   - Join komunitas (Discord, Twitter, Telegram)
 - Simpan token atau NFT dari proyek tertentu
